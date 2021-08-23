@@ -19,7 +19,7 @@ $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, 
 $mail->Port = 587; // SMTP port used by GMAIL server
  
 $mail->setFrom('ka6a40k3@gmail.com', 'Pulse');   // От кого письмо 
-$mail->addAddress('gadalav367@cytsl.com');     // Add a recipient
+$mail->addAddress('ka6a4ok22@gmail.com');     // Add a recipient
 //$mail->addAddress('ellen@example.com');               // Name is optional
 //$mail->addReplyTo('info@example.com', 'Information');
 //$mail->addCC('cc@example.com');
